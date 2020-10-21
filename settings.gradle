@@ -1,0 +1,3 @@
+include ':mylibrary-release'
+include ':app'
+rootProject.name = "Ejemplo_Importar_Libreria"
